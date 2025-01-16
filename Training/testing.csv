@@ -1,0 +1,574 @@
+CustomerID,Recency,Frequency,Monetary,Labels
+15809,184,3,55.3,Lost Customers
+16139,112,2,40.31999999999999,Lost Customers
+14257,123,3,115.65,Big Spenders
+16109,218,1,4.5600000000000005,Lost Customers
+13519,78,1,11.9,Almost Lost
+13562,81,3,53.650000000000006,Other
+17164,79,4,60.300000000000004,Other
+17612,95,4,42.72,Other
+17491,74,5,197.85,Best Customers
+18102,72,34,26632.62,Loyal Customers
+17757,70,14,359.46,Best Customers
+15504,81,1,7.5,Almost Lost
+18194,82,1,208.79999999999998,Big Spenders
+15393,281,1,9.899999999999999,Lost Customers
+15746,134,1,18.75,Lost Customers
+13489,105,2,85.8,Lost Customers
+15019,266,1,0.85,Lost Customers
+14079,124,1,15.0,Lost Customers
+15322,85,1,8.5,Lost Customers
+13647,71,3,64.34,Almost Lost
+17163,78,1,29.700000000000003,Almost Lost
+16990,218,1,179.0,Big Spenders
+17115,182,2,39.8,Lost Customers
+13731,219,2,34.5,Lost Customers
+18237,91,3,47.25,Other
+15998,87,3,29.25,Lost Customers
+17157,176,1,19.799999999999997,Lost Customers
+14883,73,4,38.92,Other
+16191,262,1,90.0,Lost Customers
+16527,81,1,8.25,Almost Lost
+15512,155,1,19.799999999999997,Lost Customers
+14875,107,2,77.10000000000001,Lost Customers
+13886,71,1,10.2,Almost Lost
+16550,108,4,58.05,Other
+16271,126,2,21.220000000000002,Lost Customers
+13394,78,5,76.77000000000001,Other
+17579,137,2,41.300000000000004,Lost Customers
+14855,119,2,50.39999999999999,Lost Customers
+14078,101,4,169.44,Loyal Customers
+16843,93,11,291.58,Loyal Customers
+17935,138,2,23.619999999999997,Lost Customers
+14684,81,2,2.7,Almost Lost
+15437,262,1,3.3,Lost Customers
+16714,218,1,15.0,Lost Customers
+17939,159,1,1.9,Lost Customers
+13787,75,1,5.9,Almost Lost
+15329,134,2,25.5,Lost Customers
+14540,75,1,3.4,Almost Lost
+13863,247,1,11.9,Lost Customers
+13950,73,2,39.599999999999994,Almost Lost
+15244,248,1,19.799999999999997,Lost Customers
+15288,155,3,83.10000000000001,Lost Customers
+17874,185,6,108.11,Loyal Customers
+16213,78,1,11.7,Almost Lost
+18261,95,1,17.0,Lost Customers
+15289,137,2,30.240000000000002,Lost Customers
+17422,93,4,89.96000000000001,Other
+14505,109,4,27.35,Other
+13398,192,1,9.959999999999999,Lost Customers
+16409,87,3,48.9,Other
+13081,143,3,44.46000000000001,Lost Customers
+17849,218,2,21.35,Lost Customers
+16906,81,4,35.0,Other
+13953,115,4,1769.8,Loyal Customers
+13901,72,4,66.96000000000001,Other
+15565,70,1,16.5,Almost Lost
+17420,171,1,19.9,Lost Customers
+13167,130,2,59.66,Lost Customers
+16792,282,2,13.7,Lost Customers
+13808,93,2,85.08,Lost Customers
+13777,77,13,1971.96,Loyal Customers
+17980,165,2,45.8,Lost Customers
+13837,211,1,11.25,Lost Customers
+13563,84,2,94.35,Other
+15796,72,5,100.5,Best Customers
+17673,162,3,41.6,Lost Customers
+13468,74,21,543.11,Best Customers
+17799,99,6,75.2,Other
+16429,106,1,4.95,Lost Customers
+14367,75,12,298.91,Best Customers
+17506,75,1,25.0,Almost Lost
+13618,173,1,6.959999999999999,Lost Customers
+16817,185,5,73.1,Other
+16984,88,2,8.850000000000001,Lost Customers
+14562,78,8,137.97000000000003,Best Customers
+14885,131,1,20.4,Lost Customers
+17733,261,1,17.0,Lost Customers
+16824,164,1,22.5,Lost Customers
+16360,80,2,6.35,Almost Lost
+16102,98,2,94.80000000000001,Lost Customers
+17194,273,1,10.0,Lost Customers
+12873,282,1,68.0,Lost Customers
+14720,89,2,30.9,Lost Customers
+12936,78,1,34.68,Almost Lost
+14020,88,1,34.8,Lost Customers
+16216,267,1,16.8,Lost Customers
+13588,86,5,55.67999999999999,Other
+16003,134,2,31.3,Lost Customers
+15239,78,1,15.0,Almost Lost
+17217,234,1,11.8,Lost Customers
+15333,208,1,22.5,Lost Customers
+17667,161,3,64.72,Lost Customers
+13402,127,1,17.0,Lost Customers
+17736,113,1,9.36,Lost Customers
+14113,78,1,204.0,Big Spenders
+17061,73,11,710.98,Best Customers
+17262,227,3,501.55000000000007,Big Spenders
+16836,116,1,76.32000000000001,Lost Customers
+15063,213,1,30.599999999999998,Lost Customers
+17749,178,2,29.25,Lost Customers
+13418,84,11,155.25,Best Customers
+17320,100,2,43.75,Lost Customers
+15220,115,5,109.8,Loyal Customers
+16253,255,1,39.599999999999994,Lost Customers
+13771,199,2,83.7,Lost Customers
+16629,73,2,7.56,Almost Lost
+15554,277,1,15.9,Lost Customers
+15132,105,3,48.60000000000001,Lost Customers
+17634,92,6,77.4,Other
+16200,164,1,33.9,Lost Customers
+18171,99,3,102.55,Loyal Customers
+15673,88,3,46.5,Other
+13881,71,11,997.7,Best Customers
+15713,143,1,15.0,Lost Customers
+15407,183,2,5.08,Lost Customers
+14141,73,2,60.0,Almost Lost
+14842,95,2,45.9,Lost Customers
+16342,75,4,82.56,Other
+17542,269,1,20.4,Lost Customers
+12868,185,3,69.2,Lost Customers
+17698,260,1,17.4,Lost Customers
+16293,91,5,69.57,Other
+18224,263,1,10.2,Lost Customers
+15827,73,9,162.8,Best Customers
+15205,85,2,22.650000000000002,Lost Customers
+13136,87,4,91.9,Other
+13355,122,1,17.700000000000003,Lost Customers
+15791,204,1,39.6,Lost Customers
+15738,96,9,169.17000000000002,Loyal Customers
+15663,106,1,14.040000000000001,Lost Customers
+16229,87,2,80.2,Lost Customers
+14780,79,1,20.8,Almost Lost
+15804,78,8,123.98,Best Customers
+15414,242,1,15.299999999999999,Lost Customers
+13169,252,1,15.600000000000001,Lost Customers
+16539,219,1,67.5,Lost Customers
+12948,105,4,131.3,Loyal Customers
+14100,137,1,7.95,Lost Customers
+12930,78,2,25.2,Almost Lost
+14829,184,1,11.7,Lost Customers
+17615,130,3,44.3,Lost Customers
+12897,204,1,58.0,Lost Customers
+14606,72,50,661.1,Best Customers
+15235,217,3,61.5,Lost Customers
+14901,73,4,89.76,Other
+17238,84,9,45.39,Other
+12963,84,1,15.0,Almost Lost
+17252,116,2,13.35,Lost Customers
+13662,85,3,67.8,Other
+14552,151,1,3.38,Lost Customers
+14658,117,1,2.95,Lost Customers
+17051,194,1,2.5,Lost Customers
+17589,151,3,23.950000000000003,Lost Customers
+17035,245,1,13.52,Lost Customers
+15443,73,2,22.349999999999998,Almost Lost
+14498,116,3,34.69,Lost Customers
+15238,95,2,23.520000000000003,Lost Customers
+13376,99,3,65.69999999999999,Other
+15611,70,9,389.42,Best Customers
+13246,176,2,19.0,Lost Customers
+13940,116,2,26.1,Lost Customers
+13934,263,1,19.799999999999997,Lost Customers
+17548,233,1,30.0,Lost Customers
+15410,84,8,219.97,Best Customers
+17337,151,3,31.439999999999998,Lost Customers
+17187,226,1,30.599999999999998,Lost Customers
+16198,75,1,20.28,Almost Lost
+16613,70,1,16.6,Almost Lost
+15047,269,1,12.600000000000001,Lost Customers
+15587,89,2,182.16000000000003,Big Spenders
+12895,86,1,19.8,Lost Customers
+15358,74,12,225.92,Best Customers
+15987,120,5,492.15000000000003,Loyal Customers
+16160,85,1,62.400000000000006,Lost Customers
+14535,127,2,23.4,Lost Customers
+14621,156,2,61.5,Lost Customers
+18053,70,1,19.799999999999997,Almost Lost
+17306,71,13,1647.96,Best Customers
+15717,234,1,35.400000000000006,Lost Customers
+18219,149,5,118.0,Loyal Customers
+16327,80,3,45.550000000000004,Almost Lost
+12991,112,1,42.5,Lost Customers
+14226,70,3,122.7,Other
+13133,273,1,9.95,Lost Customers
+17075,253,1,8.32,Lost Customers
+16909,72,1,77.75999999999999,Almost Lost
+15095,103,4,85.2,Other
+13208,155,3,45.55,Lost Customers
+13804,78,4,99.85,Loyal Customers
+18185,249,1,11.7,Lost Customers
+15599,204,1,27.04,Lost Customers
+14389,190,1,33.0,Lost Customers
+15152,84,7,132.79000000000002,Loyal Customers
+14818,73,3,17.5,Almost Lost
+17723,127,6,3112.5,Loyal Customers
+13875,133,3,88.56,Other
+14924,245,1,47.400000000000006,Lost Customers
+16619,263,1,11.399999999999999,Lost Customers
+17960,171,1,1.65,Lost Customers
+16131,115,4,101.84,Loyal Customers
+17259,148,1,2.08,Lost Customers
+16529,190,1,5.95,Lost Customers
+14920,212,2,34.2,Lost Customers
+16497,203,3,74.7,Lost Customers
+14441,94,2,50.400000000000006,Lost Customers
+16062,133,2,24.939999999999998,Lost Customers
+16931,75,11,43.32,Other
+13630,75,5,357.4,Best Customers
+13803,255,1,17.700000000000003,Lost Customers
+15785,157,3,47.879999999999995,Lost Customers
+17898,85,2,10.8,Almost Lost
+16471,274,1,15.8,Lost Customers
+17172,78,1,13.919999999999998,Almost Lost
+18172,78,12,1275.9199999999998,Best Customers
+17578,218,1,18.72,Lost Customers
+18087,98,1,852.8,Big Spenders
+16552,242,1,17.700000000000003,Lost Customers
+12940,87,1,17.0,Lost Customers
+15381,213,2,349.95000000000005,Big Spenders
+13549,142,5,100.6,Loyal Customers
+17079,78,1,59.400000000000006,Almost Lost
+13572,205,1,17.700000000000003,Lost Customers
+12917,128,1,297.0,Big Spenders
+16469,87,3,4.140000000000001,Lost Customers
+15854,86,7,755.0500000000001,Loyal Customers
+13873,119,2,45.8,Lost Customers
+14895,91,12,376.0,Loyal Customers
+15319,283,1,11.9,Lost Customers
+13405,74,2,40.5,Almost Lost
+13004,77,8,114.96,Best Customers
+15488,92,1,15.0,Lost Customers
+17154,75,1,24.96,Almost Lost
+17797,182,1,14.95,Lost Customers
+17227,70,3,27.9,Almost Lost
+17940,108,8,2497.4799999999996,Loyal Customers
+14177,86,4,174.55,Loyal Customers
+14339,242,1,17.4,Lost Customers
+17722,96,2,45.0,Lost Customers
+17450,70,28,18009.06,Loyal Customers
+15494,121,1,1.68,Lost Customers
+17611,72,7,74.97,Other
+14731,205,2,31.349999999999998,Lost Customers
+13050,106,6,94.35,Other
+18013,155,2,13.98,Lost Customers
+16526,171,1,13.52,Lost Customers
+13941,89,2,250.08,Big Spenders
+13568,173,1,8.3,Lost Customers
+13531,205,1,41.6,Lost Customers
+17102,261,1,25.5,Lost Customers
+16043,211,2,84.30000000000001,Lost Customers
+16721,262,1,2.6,Lost Customers
+17695,131,2,36.6,Lost Customers
+15452,71,2,32.650000000000006,Almost Lost
+17427,71,1,30.0,Almost Lost
+16098,87,5,156.15,Loyal Customers
+18066,75,1,70.80000000000001,Almost Lost
+14740,197,3,42.239999999999995,Lost Customers
+15396,112,1,68.0,Lost Customers
+14245,219,2,28.5,Lost Customers
+13238,163,1,15.0,Lost Customers
+13573,253,1,0.42,Lost Customers
+18232,81,4,63.300000000000004,Other
+13657,201,1,12.600000000000001,Lost Customers
+16232,143,3,60.449999999999996,Lost Customers
+17535,280,1,10.2,Lost Customers
+15950,78,2,28.75,Almost Lost
+17774,96,3,16.8,Lost Customers
+14739,94,2,171.18,Big Spenders
+16825,185,1,79.2,Lost Customers
+13350,79,1,15.9,Almost Lost
+13750,140,2,338.19,Big Spenders
+13626,252,1,17.4,Lost Customers
+16218,114,5,307.8,Loyal Customers
+15969,185,1,34.0,Lost Customers
+16258,127,4,383.90000000000003,Loyal Customers
+15500,81,1,7.800000000000001,Almost Lost
+14645,156,2,39.099999999999994,Lost Customers
+17692,127,2,59.519999999999996,Lost Customers
+15864,98,2,324.48,Big Spenders
+16880,99,6,35.91,Other
+15440,136,2,5.8,Lost Customers
+12867,96,4,32.35,Other
+16503,106,2,33.6,Lost Customers
+14418,108,1,9.899999999999999,Lost Customers
+14208,94,1,10.5,Lost Customers
+16713,73,8,106.55000000000001,Best Customers
+15243,74,1,12.48,Almost Lost
+16455,94,3,58.2,Other
+13155,79,1,10.5,Almost Lost
+13126,72,3,53.099999999999994,Almost Lost
+17624,218,1,35.8,Lost Customers
+12891,185,2,289.0,Big Spenders
+12980,157,5,2041.92,Loyal Customers
+16230,189,2,26.46,Lost Customers
+16168,74,17,720.5,Best Customers
+13323,84,1,29.700000000000003,Almost Lost
+15655,243,1,15.9,Lost Customers
+13617,113,2,17.75,Lost Customers
+14511,92,2,43.54,Lost Customers
+17438,253,1,25.5,Lost Customers
+15140,79,6,128.16,Best Customers
+18260,172,4,75.57,Other
+18161,140,2,80.25,Lost Customers
+13094,80,7,505.74,Loyal Customers
+13737,200,1,73.94999999999999,Lost Customers
+13759,71,1,17.4,Almost Lost
+17763,263,1,15.0,Lost Customers
+17213,141,2,37.620000000000005,Lost Customers
+16617,235,1,53.1,Lost Customers
+14534,95,11,169.65,Loyal Customers
+13069,99,14,201.63,Loyal Customers
+14280,196,1,14.850000000000001,Lost Customers
+17266,147,1,3.75,Lost Customers
+14561,75,3,34.2,Almost Lost
+16395,78,2,17.01,Almost Lost
+15344,74,1,12.5,Almost Lost
+17837,75,4,22.22,Other
+16693,271,1,23.8,Lost Customers
+15801,109,1,17.0,Lost Customers
+14233,211,1,67.6,Lost Customers
+14778,127,1,15.0,Lost Customers
+13223,200,2,115.80000000000001,Big Spenders
+16121,215,1,5.9,Lost Customers
+14862,148,1,4.0,Lost Customers
+13636,122,3,68.65,Lost Customers
+13131,71,2,36.4,Almost Lost
+15544,119,4,47.85,Other
+14032,87,5,157.44,Loyal Customers
+15093,116,2,270.29999999999995,Big Spenders
+15182,154,2,36.6,Lost Customers
+17864,89,2,19.55,Lost Customers
+17398,114,3,72.3,Lost Customers
+14284,86,1,14.850000000000001,Lost Customers
+13388,131,2,26.1,Lost Customers
+13098,87,17,946.6,Best Customers
+13668,113,12,188.43,Loyal Customers
+13309,88,2,25.84,Lost Customers
+13307,120,1,15.0,Lost Customers
+13611,89,2,34.8,Lost Customers
+17214,85,2,92.8,Other
+15947,82,1,179.0,Big Spenders
+16275,196,1,12.75,Lost Customers
+16992,98,2,37.2,Lost Customers
+15136,96,1,29.880000000000003,Lost Customers
+16681,72,6,417.96000000000004,Best Customers
+17440,156,3,140.22,Big Spenders
+17550,197,3,5.65,Lost Customers
+13279,78,1,9.36,Almost Lost
+16193,236,1,25.200000000000003,Lost Customers
+17970,211,1,12.5,Lost Customers
+13692,213,2,29.9,Lost Customers
+14795,166,1,31.8,Lost Customers
+15189,91,29,1904.71,Best Customers
+13273,113,1,24.900000000000002,Lost Customers
+15045,151,2,95.28000000000002,Lost Customers
+14501,183,1,27.04,Lost Customers
+14560,94,11,568.5999999999999,Loyal Customers
+13122,94,2,48.56999999999999,Lost Customers
+17134,106,2,35.45,Lost Customers
+16531,74,2,55.5,Almost Lost
+14289,134,4,105.83999999999999,Loyal Customers
+13340,105,5,639.08,Loyal Customers
+17765,158,3,27.55,Lost Customers
+13791,127,2,469.0,Big Spenders
+18167,105,1,35.400000000000006,Lost Customers
+13718,246,1,25.4,Lost Customers
+13070,192,1,20.8,Lost Customers
+17655,116,2,64.6,Lost Customers
+16833,259,2,32.4,Lost Customers
+14321,73,3,21.84,Almost Lost
+13488,72,8,144.14,Best Customers
+15829,99,2,9.6,Lost Customers
+16692,256,1,150.0,Big Spenders
+17415,79,1,170.0,Big Spenders
+14109,72,1,15.0,Almost Lost
+13566,82,1,1.25,Almost Lost
+14512,187,2,24.15,Lost Customers
+14242,234,1,25.5,Lost Customers
+17678,263,1,17.4,Lost Customers
+18191,261,1,30.599999999999998,Lost Customers
+14293,147,1,20.8,Lost Customers
+14727,274,1,50.849999999999994,Lost Customers
+16297,268,1,14.850000000000001,Lost Customers
+13207,150,1,35.400000000000006,Lost Customers
+16653,71,1,17.4,Almost Lost
+16392,269,1,5.0,Lost Customers
+13486,78,3,40.620000000000005,Almost Lost
+15640,78,7,252.9,Best Customers
+14051,91,10,859.5,Loyal Customers
+14307,88,4,64.74000000000001,Other
+16149,142,1,9.120000000000001,Lost Customers
+15671,94,5,269.52000000000004,Loyal Customers
+14111,95,3,206.1,Loyal Customers
+15175,71,1,17.4,Almost Lost
+13016,73,3,64.56,Almost Lost
+14859,80,2,23.479999999999997,Almost Lost
+15528,254,1,3.75,Lost Customers
+15800,107,2,15.18,Lost Customers
+17088,72,3,56.42,Almost Lost
+13420,149,2,34.2,Lost Customers
+15841,72,3,156.08,Other
+15119,245,1,33.9,Lost Customers
+14867,185,2,29.919999999999998,Lost Customers
+16224,141,3,53.4,Lost Customers
+13707,267,1,10.2,Lost Customers
+14403,130,4,278.1,Loyal Customers
+15438,131,1,11.8,Lost Customers
+17580,252,1,47.7,Lost Customers
+15059,107,4,22.869999999999997,Other
+13184,130,8,56.4,Other
+17512,121,5,306.6,Loyal Customers
+14022,225,1,10.5,Lost Customers
+13338,157,1,10.2,Lost Customers
+13262,263,1,6.959999999999999,Lost Customers
+17139,88,7,170.42,Loyal Customers
+17433,88,1,0.85,Lost Customers
+14206,239,1,23.4,Lost Customers
+16112,143,2,18.16,Lost Customers
+13717,128,3,36.15,Lost Customers
+17664,212,1,13.200000000000001,Lost Customers
+14196,106,1,30.0,Lost Customers
+12995,85,1,38.160000000000004,Lost Customers
+15130,169,1,15.0,Lost Customers
+16834,227,1,30.0,Lost Customers
+13967,145,1,35.7,Lost Customers
+13835,155,2,48.75,Lost Customers
+14692,137,2,8.4,Lost Customers
+16877,152,2,20.7,Lost Customers
+18055,84,3,80.1,Other
+17528,71,2,21.0,Almost Lost
+16823,227,1,8.25,Lost Customers
+15749,235,1,4632.0,Big Spenders
+13012,78,4,95.79,Other
+16671,164,1,816.0,Big Spenders
+17315,75,25,527.34,Best Customers
+15210,225,1,14.75,Lost Customers
+15129,106,9,621.45,Loyal Customers
+17754,142,2,24.54,Lost Customers
+15073,185,2,79.67999999999999,Lost Customers
+17370,72,4,69.96,Other
+15434,107,3,41.62,Lost Customers
+17045,113,3,56.46,Lost Customers
+16763,198,1,89.69999999999999,Lost Customers
+13228,81,1,179.0,Big Spenders
+13235,212,1,19.799999999999997,Lost Customers
+15280,172,1,0.72,Lost Customers
+13268,84,7,39.72,Other
+13023,129,1,15.9,Lost Customers
+12909,87,4,107.16,Loyal Customers
+17991,225,2,5.9,Lost Customers
+14459,155,1,76.5,Lost Customers
+14616,242,1,158.4,Big Spenders
+14210,105,3,55.7,Lost Customers
+14359,87,1,17.4,Lost Customers
+13752,124,6,203.55,Loyal Customers
+16442,227,1,0.8,Lost Customers
+16612,119,2,29.200000000000003,Lost Customers
+13756,93,5,201.9,Loyal Customers
+14701,172,5,130.55,Loyal Customers
+15577,151,2,15.9,Lost Customers
+13669,149,1,12.75,Lost Customers
+13880,87,9,275.69,Loyal Customers
+14133,129,2,43.31999999999999,Lost Customers
+14077,78,4,20.049999999999997,Other
+17715,200,1,326.4,Big Spenders
+17660,141,1,3.75,Lost Customers
+13708,271,1,4.949999999999999,Lost Customers
+14907,99,2,23.16,Lost Customers
+15149,133,1,17.0,Lost Customers
+13209,128,3,79.5,Lost Customers
+16628,106,4,177.8,Loyal Customers
+14390,144,3,46.339999999999996,Lost Customers
+15489,211,1,19.5,Lost Customers
+13590,150,3,151.06,Big Spenders
+15092,215,2,54.15,Lost Customers
+13384,73,5,100.4,Best Customers
+18223,96,7,153.85,Loyal Customers
+16917,276,1,122.39999999999999,Big Spenders
+17256,107,1,89.7,Lost Customers
+13856,168,3,177.0,Big Spenders
+17679,85,1,61.199999999999996,Lost Customers
+17805,73,1,30.24,Almost Lost
+17553,129,1,237.60000000000002,Big Spenders
+13218,127,1,15.0,Lost Customers
+13960,71,1,17.700000000000003,Almost Lost
+15483,161,4,10.64,Lost Customers
+16225,149,4,52.11000000000001,Other
+14476,257,1,5.9,Lost Customers
+17464,158,1,71.4,Lost Customers
+15939,89,11,784.46,Loyal Customers
+14125,78,1,19.799999999999997,Almost Lost
+16045,119,3,58.2,Lost Customers
+14286,242,1,20.4,Lost Customers
+17894,71,2,11.05,Almost Lost
+17631,137,2,34.650000000000006,Lost Customers
+14083,126,4,43.3,Other
+17975,114,7,230.22000000000003,Loyal Customers
+17064,182,1,20.8,Lost Customers
+15380,86,2,36.9,Lost Customers
+15251,91,8,879.06,Loyal Customers
+15806,157,2,26.43,Lost Customers
+14871,178,2,13.89,Lost Customers
+17819,71,4,596.3399999999999,Best Customers
+14733,110,5,188.18,Loyal Customers
+15518,124,4,16.89,Lost Customers
+17410,96,2,36.3,Lost Customers
+16610,219,1,17.700000000000003,Lost Customers
+14336,198,3,56.400000000000006,Lost Customers
+18145,87,2,21.0,Lost Customers
+13476,178,2,38.7,Lost Customers
+15299,164,2,1200.0,Big Spenders
+13282,162,2,121.50000000000001,Big Spenders
+16101,70,1,15.0,Almost Lost
+17140,247,1,7.5,Lost Customers
+14711,91,9,382.85,Loyal Customers
+15571,78,1,24.900000000000002,Almost Lost
+17653,99,2,40.1,Lost Customers
+14998,170,2,7.85,Lost Customers
+15365,81,3,224.40000000000003,Loyal Customers
+16493,79,2,33.12,Almost Lost
+17738,148,3,88.5,Lost Customers
+18108,254,1,16.8,Lost Customers
+13656,164,1,8.5,Lost Customers
+13667,149,1,4.16,Lost Customers
+16816,103,2,35.85,Lost Customers
+15078,74,17,319.15,Best Customers
+13513,126,1,9.899999999999999,Lost Customers
+17871,204,1,5.76,Lost Customers
+17893,225,1,3.25,Lost Customers
+16954,124,3,189.15,Big Spenders
+17790,120,6,61.3,Other
+15412,171,1,102.0,Lost Customers
+15023,116,6,65.25,Other
+16743,113,5,59.73,Other
+14800,75,7,33.36,Other
+14315,129,5,103.89999999999999,Loyal Customers
+17069,77,5,59.870000000000005,Other
+16940,169,1,6.8,Lost Customers
+14808,74,7,182.3,Best Customers
+13833,159,1,15.9,Lost Customers
+17750,82,6,80.69,Other
+15832,254,1,12.5,Lost Customers
+15505,84,4,114.98,Loyal Customers
+17189,106,1,5.04,Lost Customers
+15124,191,1,7.800000000000001,Lost Customers
+17388,77,3,395.6,Loyal Customers
+18116,234,3,26.04,Lost Customers
+15208,163,1,51.0,Lost Customers
+16551,95,2,23.64,Lost Customers
+15708,138,2,27.570000000000004,Lost Customers
+16716,266,1,166.8,Big Spenders
+13623,210,3,44.2,Lost Customers
+14040,94,7,166.99,Loyal Customers
+13243,203,1,5.1,Lost Customers
+14301,117,1,60.0,Lost Customers
+13018,72,19,378.78,Best Customers
+16361,71,1,3.9,Almost Lost
+13116,138,1,25.5,Lost Customers
+16589,71,3,43.85,Almost Lost
+13269,88,7,162.95,Loyal Customers
+18101,143,1,2.95,Lost Customers
+15498,84,16,632.49,Best Customers
+16422,73,30,2533.08,Best Customers
